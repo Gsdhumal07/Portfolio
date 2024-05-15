@@ -69,6 +69,8 @@ const services = [
   },
 ];
 
+
+
 const technologies = [
   {
     name: "HTML 5",
@@ -129,6 +131,8 @@ const technologies = [
   
 ];
 
+
+
 const experiences = [
   {
     title: "Frontend Developer",
@@ -183,6 +187,7 @@ const experiences = [
     ],
   },
 ];
+
 
 const testimonials = [
   {
